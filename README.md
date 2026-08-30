@@ -1,10 +1,10 @@
-# Spectral-Temporal Parallel Interaction Network with Phase-Lossless Denoising for Sequential Recommendation
+# Spectral-Temporal Parallel Interaction Network with Phase-Lossless Dual-Space Filtering for Sequential Recommendation
 
 ## 💡 About
 
 This repository hosts the official implementation of the paper:
 
-**"Spectral-Temporal Parallel Interaction Network with Phase-Lossless Denoising for Sequential Recommendation"**
+**"Spectral-Temporal Parallel Interaction Network with Phase-Lossless Dual-Space Filtering for Sequential Recommendation"**
 
 ## 🚀 Status
 
